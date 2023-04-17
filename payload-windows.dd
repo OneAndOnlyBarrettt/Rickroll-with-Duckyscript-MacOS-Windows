@@ -1,1 +1,9 @@
-
+REM SigmaDog https://github.com/SigmaDog
+DELAY 100
+WINDOWS
+R
+DELAY 500
+STRING https://www.youtube.com/watch?v=dQw4w9WgXcQ
+ENTER
+DELAY 3000
+STRING F
